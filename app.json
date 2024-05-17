@@ -3,7 +3,7 @@
     "name": "pokemonCard",
     "slug": "pokemonCard",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "defaultit",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
